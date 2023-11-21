@@ -10,3 +10,9 @@ https://docs.docker.com/get-started/08_using_compose/
 
 # SQLC
 https://github.com/sqlc-dev/sqlc
+
+# Effective go
+https://go.dev/doc/effective_go#constants
+
+# Postgres driver
+https://github.com/lib/pq
